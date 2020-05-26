@@ -1,0 +1,27 @@
+site_name: Parker Erickson
+nav:
+  - 'Home': index.md
+  - 'Projects': projects.md
+  - 'Blog':
+    - 'IPO Prediction Using Graph Convolutional Neural Networks': blog/ipoGCN.md
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+  logo: https://avatars1.githubusercontent.com/u/9616171?s=460&v=4
+  favicon: https://avatars1.githubusercontent.com/u/9616171?s=460&v=4
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/parkererickson
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/p_erickson30
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/parker-erickson
+    - icon: fontawesome/brands/medium
+      link: https://medium.com/@parker.erickson
+
+extra_css:
+  - stylesheets/extra.css
