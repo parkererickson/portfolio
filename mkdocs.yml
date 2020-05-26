@@ -4,6 +4,7 @@ nav:
   - 'Projects': projects.md
   - 'Blog':
     - 'IPO Prediction Using Graph Convolutional Neural Networks': blog/ipoGCN.md
+    - 'Do You Really Need Trash Cans?': blog/doYouReallyNeedTrashCans.md
 
 theme:
   name: material

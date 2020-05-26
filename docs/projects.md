@@ -1,5 +1,5 @@
 ## **Baseball Pitch Prediction**
-Using various machine learning methods, I was able to predict the next pitch of an at-bat with up to 75% accuracy.
+Using various machine learning methods, I was able to predict the next pitch of an at-bat with up to 75% accuracy. Check out the blog post [here](blog/doYouReallyNeedTrashCans.md)
 
 ## **pyTigerGraph**
 A Python package that interfaces with a TigerGraph database's REST API. More information can be found [here](https://github.com/parkererickson/pytigergraph).
