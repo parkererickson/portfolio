@@ -22,6 +22,9 @@ Will take graduate-level classes starting in the Spring of 2021.
 
 ## **Experience**
 --------------------------------
+### Software Engineering Intern • Optum, A UnitedHealth Group Company • Summer 2020
+Developed a documentation and demonstration site for an internal de-identification tool.
+
 ### Software Engineering Intern • Optum, A UnitedHealth Group Company • Summer 2019
 Developed a financial and claims fraud detection system using a graph convolutional neural network and graph database technology. The solution developed is currently in the patenting process.
 
