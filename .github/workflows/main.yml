@@ -18,8 +18,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
-          pip install mkdocs-material
+          python3 -m pip3 install --upgrade pip3
+          pip3 install mkdocs-material
+          mkdocs gh-deploy
 
-      - name: Build and Deploy Documentation using MkDocs
-        uses: Tangerine-Community/tangy-mkdocs-build-action@v1
