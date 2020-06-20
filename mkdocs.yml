@@ -3,6 +3,7 @@ nav:
   - 'Home': index.md
   - 'Projects': projects.md
   - 'Blog':
+    - 'Continuous Deployment for MkDocs with GitHub Actions': blog/MkDocsCD.md
     - 'Getting Started with MkDocs': blog/gettingStartedWithMkdocs.md
     - 'IPO Prediction Using Graph Convolutional Neural Networks': blog/ipoGCN.md
     - 'Do You Really Need Trash Cans?': blog/doYouReallyNeedTrashCans.md
