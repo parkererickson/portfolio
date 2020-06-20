@@ -18,7 +18,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          python3 -m pip3 install --U pip
+          python3 -m pip install --U pip
           pip3 install mkdocs-material
           mkdocs gh-deploy
 
