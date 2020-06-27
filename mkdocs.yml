@@ -26,3 +26,7 @@ extra:
 
 extra_css:
   - stylesheets/extra.css
+
+plugins:
+  - search
+  - pdf-export
